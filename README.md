@@ -1,4 +1,4 @@
-# mattiesosa.github.io
+## Welcome to Mattie Soghikian's Webpage!
 
 This is a page where I'll share some information about myself and the work I am doing in BioInformatics. So far I've done some work to analyze data on penguins, as well as honey bee colony loss in the United States.
 
@@ -11,3 +11,4 @@ I started learning how to use R by working with the Palmer Penquins data set. We
 I began an exploratory analysis on the data set given on GitHub to create visual representation of how the time of year correlates with honey bee colony loss in different states thoughout the US. If you are interested, you can see my analysis [here](https://mattiesosa.github.io/BioStatisticsAnalysis/BeeColonyLossAnalysis.html)
 
 ## Finding the Replication Origin
+For this project we were tasked with ??
