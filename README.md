@@ -12,3 +12,6 @@ I began an exploratory analysis on the data set given on GitHub to create visual
 
 ## Finding the Replication Origin
 For this project we were tasked with ??
+
+## Exploratory Analysis on Volcano Eruptions
+This exploratory analysis on the Volcano Eruptions data set taken from GitHub...
