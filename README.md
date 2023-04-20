@@ -12,7 +12,7 @@ I began an exploratory analysis on the data set given on GitHub to create visual
 
 ## Finding the Replication Origin
 For this project we were tasked with ??
-[here] (https://agmath.github.io/BIO4ST1_Group2/Replication_Mattie_Soghikian.html)
+[here](https://agmath.github.io/BIO4ST1_Group2/Replication_Mattie_Soghikian.html)
 
 ## Exploratory Analysis on Volcano Eruptions
 This exploratory analysis on the Volcano Eruptions data set taken from GitHub...
