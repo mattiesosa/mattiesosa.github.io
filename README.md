@@ -1,6 +1,6 @@
 ## Welcome to Mattie Soghikian's Webpage!
 
-## This is a page where I'll share some information about myself and the work I am doing in BioInformatics. So far I've done some work to analyze data on penguins, as well as honey bee colony loss in the United States.
+This is a page where I'll share some information about myself and the work I am doing in BioInformatics. So far I've done some work to analyze data on penguins, as well as honey bee colony loss in the United States.
 
 I am a senior undergraduate student pursuing a Bachelor of Science in Biology with a minor in psychology at Southern New Hampshire University. In my free time I love to practice yoga, hike with my two dogs (Maverick and Summit), listen to music and read. My goal for this website is to have a professional and organized layout of all my coding projects so they are easily accessible.
 
